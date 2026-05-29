@@ -1,0 +1,8 @@
+XR8.XrController.configure({
+  imageTargetData:[{
+    "name": "my-image", // Give your target a name
+    "type": "PLANAR",
+    "imagePath": "../assets/Targets/my-image.jpg", // Change this to your image path
+    ...
+  }]
+});
